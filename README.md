@@ -22,7 +22,7 @@ ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES,
 ----------------------------------------------------------------------------
 
 Para nombres de clases se debe poner en mayúscula la primera letra de cada palabra utilizada en el identificador. 
-Ejemplo:
+Ejemplo: --->
 EstudianteIngenieria
 
 

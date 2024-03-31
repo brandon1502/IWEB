@@ -23,5 +23,7 @@ ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES,
 
 Para nombres de clases se debe poner en mayúscula la primera letra de cada palabra utilizada en el identificador. 
 Ejemplo:
-EsteEsElNombreDeLaClase
-![image](https://github.com/brandon1502/IWEB/assets/142449143/2221c830-5cd1-4eb1-885d-4eaf0890e6cf)
+EstudianteIngenieria
+
+
+

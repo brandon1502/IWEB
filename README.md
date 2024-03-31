@@ -9,4 +9,6 @@ El conjunto de caracteristicas y acciones  determinan una clase
 
 •acciones ( calcular ciclos restantes, camiar de carrera, etc) -> métodos
 
+ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES
+
 

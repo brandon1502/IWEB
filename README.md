@@ -9,7 +9,5 @@ El conjunto de caracteristicas y acciones  determinan una clase
 
 •acciones ( calcular ciclos restantes, camiar de carrera, etc) -> métodos
 
-ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES, <span style="color:red;">Una clase es una plantilla uqe define los atributos y metodos de un objeto.</span>
-
-
+ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES, <span style="color:red;">Una clase es una plantilla que define los atributos y métodos de un objeto.</span>
 

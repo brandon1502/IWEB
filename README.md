@@ -22,8 +22,17 @@ ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES,
 ----------------------------------------------------------------------------
 
 Para nombres de clases se debe poner en mayúscula la primera letra de cada palabra utilizada en el identificador. 
-Ejemplo: --->
-EstudianteIngenieria
+
+
+Ejemplo: ---> EstudianteIngenieria
+
+Para métodos, variables y atributos se debe aplicar la misma regla utilizada en clases pero la primera letra debe estar en minúscula.
+
+Ejemplo ---> elevarAlCuadrado
+
+------------------------------------------------------------------------------------
+
+
 
 
 

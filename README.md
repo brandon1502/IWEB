@@ -11,5 +11,10 @@ El conjunto de caracteristicas y acciones  determinan una clase
 
 ESTA ES LA CLASE ESTUDIANTE QUE TIENE 7 CARACTERÍSTICAS Y 5 ACCIONES, 
 
+----------------------------------------------------------------------------
+
 **Una clase es una plantilla que define los atributos y métodos de un objeto**
 
+----------------------------------------------------------------------------
+
+**Un objeto es una instancia de la clase**
